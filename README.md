@@ -23,7 +23,7 @@
 ### :iphone: ***Контакты***
 ![a03472](https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&link=https://t.me/Gaechka58)
 
-### :clipboard: ***Мои проекты для школы [qa guru](https://qa.guru/)***
+### :clipboard: ***Мои проекты для школы [QA Guru](https://qa.guru/)***
 <a href="https://github.com/nice58/api_project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nice58&repo=api_project&theme=synthwave" />
 </a> <a href="https://github.com/nice58/ui_project">
