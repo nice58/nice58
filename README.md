@@ -28,7 +28,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nice58&repo=api_project&theme=synthwave" />
 </a> <a href="https://github.com/nice58/ui_project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nice58&repo=ui_project&theme=synthwave" />
-</a>
+</a> <a href="https://github.com/nice58/mobile_autotests_appium">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nice58&repo=mobile_autotests_appium&theme=synthwave" />
+
+
 
 
 
