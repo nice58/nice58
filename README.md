@@ -4,20 +4,22 @@
 
 ### :wrench: ***Стек технологий***
 <p>
-<img width="6%" title="IntelliJ IDEA" src="img/idea.svg">
-<img width="6%" title="Java" src="img/java.svg">
-<img width="6%" title="Selenide" src="img/selenide.svg">
-<img width="6%" title="Selenoid" src="img/selenoid.svg">
-<img width="6%" title="Allure Report" src="img/allureReport.svg">
-<img width="6%" title="Gradle" src="img/gradle.svg">
-<img width="6%" title="JUnit5" src="img/junit5.svg">
-<img width="6%" title="GitHub" src="img/github.svg">
-<img width="6%" title="Jenkins" src="img/jenkins.svg">
-<img width="6%" title="Telegram" src="img/telegram.svg">
-<img width="5%" title="Appium" src="img/appium.png">
-<img width="5%" title="Appium Inspector" src="img/appiuminspector.png">
-<img width="5%" title="Android Studio" src="img/androidstudio.png">
-<img width="5%" title="BrowserStack" src="img/browserstack.png">
+  
+[<img src="img/idea.svg" width="6%" title="IntelliJ IDEA">](https://www.jetbrains.com/idea/)
+[<img src="img/java.svg" width="6%" title="Java">](https://www.java.com/ru/)
+[<img width="6%" title="Selenide" src="img/selenide.svg">](https://ru.selenide.org/)
+[<img width="6%" title="Selenoid" src="img/selenoid.svg">](https://aerokube.com/selenoid/latest/)
+[<img width="6%" title="Allure Report" src="img/allureReport.svg">](https://allurereport.org/)
+[<img width="6%" title="Gradle" src="img/gradle.svg">](https://gradle.org/)
+[<img width="6%" title="JUnit5" src="img/junit5.svg">](https://junit.org/junit5/docs/current/user-guide/)
+[<img width="6%" title="GitHub" src="img/github.svg">](https://github.com/)
+[<img width="6%" title="Jenkins" src="img/jenkins.svg">](https://www.jenkins.io/)
+[<img width="6%" title="Telegram" src="img/telegram.svg">](https://telegram.org/?1)
+[<img width="5%" title="Appium" src="img/appium.png">](https://appium.io/docs/en/2.1/)
+[<img src="img/appiuminspector.png" width="5%" title="Appium Inspector">](https://github.com/appium/appium-inspector)
+[<img width="5%" title="Android Studio" src="img/androidstudio.png">](https://developer.android.com/studio)
+[<img width="5%" title="BrowserStack" src="img/browserstack.png">](https://www.browserstack.com/)
+
 </p>
 
 ### :iphone: ***Контакты***
